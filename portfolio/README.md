@@ -1,36 +1,75 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Personal Portfolio - Esteban Iglesias Vargas
 
-## Getting Started
+My professional software developer portfolio showcasing my projects, skills, and experience in the field of software development.
 
-First, run the development server:
+## 🚀 Technologies Used
 
+- **Frontend:**
+  - Next.js 16
+  - React 18
+  - TypeScript
+  - Tailwind CSS
+  - ESLint for code quality
+
+## 🛠️ Installation
+
+1. Clone the repository:
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+git clone https://github.com/EstebanUCR/portfolio.git
+cd portfolio
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+2. Install dependencies:
+```bash
+npm install
+```
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+3. Start the development server:
+```bash
+npm run dev
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+The site will be available at `http://localhost:3000`
 
-## Learn More
+## 🏗️ Project Structure
 
-To learn more about Next.js, take a look at the following resources:
+```
+portfolio/
+├── src/
+│   ├── app/         # Routes and pages (Next.js App Router)
+│   ├── components/  # Reusable React components
+│   ├── lib/        # Utilities and configurations
+│   └── styles/     # Global styles
+├── public/         # Static files
+└── tests/         # Tests
+```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 📦 Available Scripts
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- `npm run dev` - Starts the development server
+- `npm run build` - Builds the app for production
+- `npm start` - Starts the production server
+- `npm run lint` - Runs the linter to check code quality
 
-## Deploy on Vercel
+## 🌐 Deployment
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+This portfolio is deployed on Vercel and automatically updates with each push to the main branch.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Visit the site at: [Not available yet](#)
+
+## 🤝 Contributing
+
+While this is a personal project, suggestions are welcome. Feel free to:
+
+- Report bugs
+- Suggest new features
+- Improve documentation
+
+## 📫 Contact
+
+- LinkedIn: [Esteban Iglesias Vargas](https://www.linkedin.com/in/esteban-yglesias-848895280/)
+- Email: [Estebayglesiasv@gmail.com](Estebayglesiasv@gmail.com)
+- Website: [Not available yet]()
+
+---
+Developed by Esteban Iglesias Vargas - © 2025
